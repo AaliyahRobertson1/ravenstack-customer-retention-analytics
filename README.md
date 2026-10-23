@@ -43,7 +43,7 @@ Customer-level churn and subscription-level churn are distinct metrics and are a
 
 The dashboard includes total accounts, customer churn, total subscription MRR, a retention breakdown, revenue and churn by plan, churn by industry and referral source, product usage and support comparisons, and monthly new subscriptions.
 
-*Dashboard screenshot will be added here.*
+![RavenStack Customer Retention & Revenue Analytics Dashboard](images/RavenStack%20Customer%20Retention%20Dashboard.png)
 
 ## Key Metrics
 
